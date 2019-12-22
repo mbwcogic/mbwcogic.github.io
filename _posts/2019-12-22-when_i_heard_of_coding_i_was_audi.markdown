@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "When I heard of coding I was "Audi"."
-date:       2019-12-22 16:45:06 +0000
+date:       2019-12-22 11:45:07 -0500
 permalink:  when_i_heard_of_coding_i_was_audi
 ---
 
